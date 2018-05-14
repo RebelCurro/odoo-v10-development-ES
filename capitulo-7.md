@@ -1,3 +1,4 @@
+
 # Capítulo 7. Lógica de aplicación de ORM - Procesos de soporte empresariales.
 Con la programación API de Odoo, podemos escribir lógica compleja y asistentes para proporcionar una interacción de usuario rica para nuestras aplicaciones. En este capítulo, veremos cómo escribir código para apoyar la lógica de negocio en nuestros modelos, y también aprenderemos cómo activarlo en eventos y acciones de usuario.
 
@@ -15,7 +16,7 @@ Los asistentes son formularios utilizados para obtener información de entrada d
 
 Así será nuestro asistente:
 
-![ToDoTaskCreatingWizard](file:img/7-01.jpg)
+![ToDoTaskCreatingWizard](/img/7-01.jpg)
 
 Podemos empezar creando un nuevo módulo addon para la función `todo_wizard`.
 
