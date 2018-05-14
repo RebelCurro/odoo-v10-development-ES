@@ -444,4 +444,4 @@ Para casos aún más complejos, podemos utilizar una solución diferente: un asi
 
 En el capítulo anterior aprendimos sobre QWeb y cómo usarlo para diseñar una vista Kanban. En este capítulo aprendimos sobre el motor de informes QWeb y sobre las técnicas más importantes para generar informes con el lenguaje de plantillas QWeb.
 
-En el próximo capítulo, seguiremos trabajando con QWeb, esta vez para construir páginas web. También aprenderemos a escribir controladores web, proporcionando funciones más completas a nuestras páginas web.
+En el próximo capítulo, seguiremos trabajando con QWeb, esta vez para construir páginas web. También aprenderemos a escribir controladores web, proporcionando funciones más completas a nuestras páginas web. 
