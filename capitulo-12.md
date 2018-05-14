@@ -1,3 +1,6 @@
+
+
+
 # Capitulo 12. API Externa - Integración con otros sistemas.
 
 
@@ -131,7 +134,7 @@ Vale la pena repetir que la API externa de Odoo puede ser utilizada por la mayor
 
 Hagamos algo interesante con la API de RPC. Odoo proporciona una aplicación sencilla para notas. ¿Qué pasa si los usuarios pueden administrar sus notas personales directamente desde el escritorio de su computadora? Vamos a escribir una sencilla aplicación de Python para hacer eso, como se muestra en la siguiente captura de pantalla:
 
-![Notas](file:img/12-01.jpg)
+![Notas](/img/12-01.jpg)
 
 
 Para mayor claridad, lo dividiremos en dos archivos: uno relacionado con las interacciones con el servidor backend, `note_api.py` y otro con la interfaz gráfica de usuario, `note_gui.py`.
@@ -379,5 +382,3 @@ Nuestro objetivo para este capítulo fue aprender cómo funciona la API externa 
 Existen varias bibliotecas para manejar XML-RPC o JSON-RPC, algunas genéricas y otras específicas para usar con Odoo. Tratamos de no señalar ninguna bibliotecas en particular, a excepción de erppeek, ya que no sólo es un envoltorio probado para el Odoo / OpenERP XML-RPC, sino porque también es una herramienta invaluable para la gestión de servidores remotos y la inspección.
 
 Hasta ahora, utilizamos nuestras instancias de servidor Odoo para desarrollo y pruebas. Pero para tener un servidor de grado de producción, hay configuraciones adicionales de seguridad y optimización que deben hacerse. En el próximo capítulo, nos centraremos en ellos.
-
-
