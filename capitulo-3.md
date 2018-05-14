@@ -11,7 +11,7 @@ Nuestra aplicación de To-Do ahora permite a los usuarios gestionar de forma pri
 
 Lo haremos con un nuevo módulo para ampliar la aplicación To-Do previamente creada y agregar estas nuevas características utilizando los mecanismos de herencia. Esto es lo que esperamos lograr al final de este capítulo:
 
-![Mytodo](file:img/3-01.jpg)
+![Mytodo](/img/3-01.jpg)
 
 Este será nuestro plan de trabajo para las extensiones de características que se implementarán:
 
@@ -520,6 +520,3 @@ Hemos ampliado un modelo Odoo para agregar nuevos campos y ampliar sus métodos 
 Los tres primeros capítulos nos dieron una visión general de las actividades comunes involucradas en el desarrollo Odoo, desde la instalación y configuración de Odoo hasta la creación y extensión de módulos.
 
 Los próximos capítulos se centrarán en un área específica del desarrollo Odoo, la mayoría de los cuales visitamos brevemente en estos primeros capítulos. En el capítulo siguiente, abordaremos la serialización de datos y el uso de archivos de datos XML y CSV con más detalle.
-
-
-
